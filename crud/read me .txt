@@ -1,0 +1,17 @@
+ main  
+ login.php
+login.css
+logincheck.php
+link.php -----boostrap link
+adminMainPage.php
+style.css
+    insert Data-validate2.php
+delete data- delete.php
+ showdata- showtable.php
+ update  data- updateData2.php
+
+database 
+
+
+
+
